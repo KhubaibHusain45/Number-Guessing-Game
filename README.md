@@ -1,0 +1,1 @@
+This program lets the user guess a randomly generated number between 1 and 100. They get 5 chances to guess it correctly. After each guess, they are told if the correct number is higher or lower, and the game ends either when they guess correctly or run out of attempts.
